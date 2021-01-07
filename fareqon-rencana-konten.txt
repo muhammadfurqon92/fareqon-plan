@@ -3,7 +3,9 @@ RENCANA KONTEN FAREQON
 -Javascript
   #ES6
   #Framework Javascript
--Struktur Data dasar
+  -Angular
+  -React
 -PHP Framework
+  -Laravel
 -Interview
 -Vlog
